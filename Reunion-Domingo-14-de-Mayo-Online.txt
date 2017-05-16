@@ -1,0 +1,18 @@
+Reunion online domingo 14 de Mayo:
+
+[ ] Martes 16, desde las 16:00 hasta las 18:00
+	reunión en Inacap.Tarea de Análisis y
+	diseño de proyecto. Asignar tareas.
+[ ] Decidir el tema de las lucas !!!
+[A] Diagrama de conecciones electricas del arduino.
+	Se encontró software Fritzing para hacer
+	el diagrama. Se avanzó algo del este.
+[ ] Diagrama del prototipo (maqueta puerta y todo).
+	Ilustracion.
+[ ] Modelo de la base de datos.
+[ ] Diagrama funcional bpmn app web.
+[ ] Diagrama funcional bpmn arduino.
+[ ] Diseño pagina+app web.
+[ ] Investigar los componentes y apis a usar.
+	- Intrucciones de uso antena Wifi
+	- Instrucciones Api Facebook
